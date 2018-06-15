@@ -4,6 +4,7 @@
  *
  * An open source application development framework for PHP
  *
+
  * This content is released under the MIT License (MIT)
  *
  * Copyright (c) 2014 - 2018, British Columbia Institute of Technology
@@ -30,8 +31,8 @@
  * @author	EllisLab Dev Team
  * @copyright	Copyright (c) 2008 - 2014, EllisLab, Inc. (https://ellislab.com/)
  * @copyright	Copyright (c) 2014 - 2018, British Columbia Institute of Technology (http://bcit.ca/)
- * @license	http://opensource.org/licenses/MIT	MIT License
- * @link	https://codeigniter.com     
+ * @license	http://opensource.org/licenses/MIT	    MIT License
+ * @link	https://codeigniter.com         
  * @since	Version 1.0.0
  * @filesource
  */
