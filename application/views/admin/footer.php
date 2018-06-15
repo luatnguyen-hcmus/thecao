@@ -1,0 +1,1 @@
+<div class="wrapper">Bản quyền © 2018-2020 luatnguyen13ck4@gmail.com</div>
